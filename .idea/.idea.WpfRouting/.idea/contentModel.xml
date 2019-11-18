@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\danil\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\danil\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_WpfRouting.1816720971.00" t="ExcludeRecursive" />
+    <e p="C:\Users\danil\Desktop\asd\WpfRouting" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="WpfRouting" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Core" t="Include">
+          <e p="Mvvm" t="Include">
+            <e p="Abstract" t="Include">
+              <e p="Controls" t="Include">
+                <e p="MvvmUserControl.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Routing" t="Include">
+            <e p="Abstract" t="Include">
+              <e p="IScreen.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Lib" t="Include">
+          <e p="RelayCommand.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+        </e>
+        <e p="ViewModels" t="Include">
+          <e p="Abstract" t="Include">
+            <e p="RoutableViewModel.cs" t="Include" />
+            <e p="ViewModelBase.cs" t="Include" />
+          </e>
+          <e p="MenuViewModel.cs" t="Include" />
+          <e p="SecondViewModel.cs" t="Include" />
+        </e>
+        <e p="Views" t="Include">
+          <e p="MainWindow.xaml" t="Include" />
+          <e p="MainWindow.xaml.cs" t="Include" />
+          <e p="MenuView.xaml" t="Include" />
+          <e p="MenuView.xaml.cs" t="Include" />
+          <e p="SecondView.xaml" t="Include" />
+          <e p="SecondView.xaml.cs" t="Include" />
+        </e>
+        <e p="WpfRouting.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="WpfRouting.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
